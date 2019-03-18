@@ -1,0 +1,30 @@
+{
+  "name": "@mvc-works/edn2json",
+  "version": "0.1.0",
+  "description": "Convert EDN to JSON in JavaScript",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvc-works/edn2json.git"
+  },
+  "keywords": [
+    "EDN",
+    "Clojure",
+    "Webpack"
+  ],
+  "author": "jiyinyiyong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvc-works/edn2json/issues"
+  },
+  "homepage": "https://github.com/mvc-works/edn2json#readme",
+  "dependencies": {
+    "jsedn": "^0.4.1"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
